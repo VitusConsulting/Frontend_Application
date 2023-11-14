@@ -3,3 +3,4 @@
 
 ## ReactPY (https://reactpy.dev/docs/index.html)
 
+pip install "reactpy[starlette]"
